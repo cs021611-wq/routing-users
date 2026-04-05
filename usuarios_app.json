@@ -15,7 +15,16 @@
         "hash": "f4af1ceb48ee8218e6236bda7c4ee3dbaf6c9b58d89a53b1c34fad98e0a248f8",
         "iterations": 120000
       }
+    },
+    "teste": {
+      "role": "admin",
+      "password": {
+        "salt": "8b338955c26fe379b21b20062bc01148",
+        "hash": "90f0705381f38bf3b06716498e1583cc7b1f9b4a8265b53680ca172e7cab87a9",
+        "iterations": 120000
+      },
+      "must_change_password": false
     }
   },
-  "signature": "300eab1e90544a5bf38c0c16f049735e9015c339ee1936d1c4fbbed2636cf541"
+  "signature": "a7f76e1e776c18172782fe9c4919f31e2bca7317ed41148857a20f8f4e9c8cad"
 }
