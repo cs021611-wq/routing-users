@@ -15,51 +15,7 @@
         "hash": "f4af1ceb48ee8218e6236bda7c4ee3dbaf6c9b58d89a53b1c34fad98e0a248f8",
         "iterations": 120000
       }
-    },
-    "teste.consulta": {
-      "role": "consulta",
-      "password": {
-        "salt": "b183b3f0febb19f5e39cfa191eee024f",
-        "hash": "3ee9022be8b7200f72817b9464dcf6d8f52367df3614374a72c4e2d335e567dd",
-        "iterations": 120000
-      }
-    },
-    "noc1": {
-      "role": "admin",
-      "password": {
-        "salt": "3f4a7f765e089019b73a2ed35738a4ca",
-        "hash": "a1f2be1ee1db53db7900bd05d017dfc735fd5ab21cefe17eab7fe5bc726e2e34",
-        "iterations": 120000
-      },
-      "must_change_password": true
-    },
-    "consulta1": {
-      "role": "consulta",
-      "password": {
-        "salt": "5a58f7a8432fb23236ded5b6218d35c9",
-        "hash": "d0af82317c15aec2fc48a50d0f8f2decd0cd36c05d3eaaf925e9b80bddea7e67",
-        "iterations": 120000
-      },
-      "must_change_password": true
-    },
-    "teste": {
-      "role": "admin",
-      "password": {
-        "salt": "abe4e4318903d60caff50b515de345fa",
-        "hash": "66154f67b9daa37110d67bda9c416c538db12a0902500ea816193bb6c28f7005",
-        "iterations": 120000
-      },
-      "must_change_password": true
-    },
-    "teste1": {
-      "role": "admin",
-      "password": {
-        "salt": "b56d421c08a4e4b8e88098c9da739ca1",
-        "hash": "bdbc6e1274e0e4cace27a93440c955d42a2749d37f9e631fce7740cd9df02f06",
-        "iterations": 120000
-      },
-      "must_change_password": true
     }
   },
-  "signature": "d7924b19ce48a44708fa3fd1dea6a7a0031e4f1a36408c72e8e421cfd58aacd8"
+  "signature": "300eab1e90544a5bf38c0c16f049735e9015c339ee1936d1c4fbbed2636cf541"
 }
