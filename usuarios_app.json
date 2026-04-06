@@ -78,7 +78,16 @@
         "iterations": 120000
       },
       "must_change_password": true
+    },
+    "higor.costa": {
+      "role": "admin",
+      "password": {
+        "salt": "a69038fd64741076798bf9bec26669d6",
+        "hash": "5f1e957f174dd4b41b9bd254d4064b251a8205c819a18f315b0673d10a4331a9",
+        "iterations": 120000
+      },
+      "must_change_password": true
     }
   },
-  "signature": "c9b3a637443db81cd23d10bacebca63b1998b0d91065deb7d5711b12df9e2a40"
+  "signature": "ed5efeae4ccf6879a1bb1e479ec9d00b6d5941329d6d47e466cd623750f5d93f"
 }
