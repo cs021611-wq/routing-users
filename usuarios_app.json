@@ -24,7 +24,61 @@
         "iterations": 120000
       },
       "must_change_password": false
+    },
+    "rafael.lagni": {
+      "role": "admin",
+      "password": {
+        "salt": "d0e43d8f56b41ef0d2f0fd71c918a36b",
+        "hash": "e6d13a0e402e52ffb0a8cf094499bcf5c39fba4004baf63b038c0a382d42e161",
+        "iterations": 120000
+      },
+      "must_change_password": true
+    },
+    "everton.perin": {
+      "role": "admin",
+      "password": {
+        "salt": "6d9e14ed089f29c55c427db028c4fd37",
+        "hash": "67e47b860ea2dd3cadefd5feee0d3b1580e5faa53f2c3e435983d8867e11517e",
+        "iterations": 120000
+      },
+      "must_change_password": true
+    },
+    "jose.damasceno": {
+      "role": "admin",
+      "password": {
+        "salt": "ef2a929e5cca362f187894c240d8250d",
+        "hash": "f13add515be099ce9da2ba60c5bae52cb3d051708266cb84559d76c6189572a7",
+        "iterations": 120000
+      },
+      "must_change_password": true
+    },
+    "matheus.phelipe": {
+      "role": "admin",
+      "password": {
+        "salt": "d71741d573bb1a84d45b09488a84e52c",
+        "hash": "4127f38d71d937bdb391a503596d2b39f52f29dcdd58d5e16a49bcdc20d92943",
+        "iterations": 120000
+      },
+      "must_change_password": true
+    },
+    "henrique.caldas": {
+      "role": "admin",
+      "password": {
+        "salt": "66de35c3cba8382c6a253ee74c8446b8",
+        "hash": "7b1d26b50dec1a97efe1db8206370baccc49603bd5f240cd4885c7c7430fda6b",
+        "iterations": 120000
+      },
+      "must_change_password": true
+    },
+    "elias.kurgonas": {
+      "role": "admin",
+      "password": {
+        "salt": "09183ce51af11b9fee1d87b9f9a03eae",
+        "hash": "5afa971e423e001c06fdea987aa55281e13abf76992a81eb420c69929370e0ef",
+        "iterations": 120000
+      },
+      "must_change_password": true
     }
   },
-  "signature": "a7f76e1e776c18172782fe9c4919f31e2bca7317ed41148857a20f8f4e9c8cad"
+  "signature": "c9b3a637443db81cd23d10bacebca63b1998b0d91065deb7d5711b12df9e2a40"
 }
